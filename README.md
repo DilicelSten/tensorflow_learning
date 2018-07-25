@@ -5,7 +5,7 @@
 
 ## Learning process
 ###**Linear Regression**
-\\(H(x)=Wx + b\\)
+\\\(H(x)=Wx + b\\\)
 
 \\(cost(W,b) = \frac{1}{m}\sum_{i=1}^m(H(x^i)-y^i)^2\\)
 
