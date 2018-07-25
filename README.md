@@ -9,7 +9,11 @@
 ### **Linear Regression**
 
 $$
-H(x)=Wx + b
+ \varGamma(x) = \frac{\int_{\alpha}^{\beta} g(t)(x-t)^2\text{ d}t }{\phi(x)\sum_{i=0}^{N-1} \omega_i} \tag{2}
+$$
+
+$$
+ H(x)=Wx + b
 $$
 
 \\ (cost(W,b) = \frac{1}{m}\sum_{i=1}^m(H(x^i)-y^i)^2\\)
