@@ -6,19 +6,19 @@
 ## Learning process
 
 
-## **Linear Regression**
+### **Linear Regression**
 
 
-\\(H(x)=Wx + b\\)
+\\ (H(x)=Wx + b\\)
 
-\\(cost(W,b) = \frac{1}{m}\sum_{i=1}^m(H(x^i)-y^i)^2\\)
-
-
-## **Logistic Regression**
+\\ (cost(W,b) = \frac{1}{m}\sum_{i=1}^m(H(x^i)-y^i)^2\\)
 
 
-\\(H(X) = sigmoid(XW) = \frac{1}{1+e^-XW} \\)
+### **Logistic Regression**
 
-\\(cost(W) = -\frac{1}{m}\sum ylog(H(X) + (1-y)(log(1 - H(X)\\)
+
+\\ (H(X) = sigmoid(XW) = \frac{1}{1+e^-XW} \\)
+
+\\ (cost(W) = -\frac{1}{m}\sum ylog(H(X) + (1-y)(log(1 - H(X)\\)
 
 updating...
