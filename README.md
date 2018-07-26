@@ -11,4 +11,10 @@
 
 ### **Softmax Function**
 
+### **Neural Network**
+
+### **Convolutional Neural Network**
+
+### **Recurrent Neural Network**
+
 updating...
